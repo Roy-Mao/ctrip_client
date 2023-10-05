@@ -1,7 +1,15 @@
 # CtripClient
 
+This is a ruby client for CTrip
 
-To experiment with that code, run `bin/console` for an interactive prompt.
+You can expore with the code by running `bin/console` for an interactive prompt.
+
+## Overview
+
+Ctrip sandbox URL: https://ttdstp.ctrip.com/user/index.do
+
+CTrip API documentation (English Version)
+https://open.trip.com/apiplatform/order_en.jsp
 
 ## Installation
 
