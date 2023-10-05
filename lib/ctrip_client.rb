@@ -1,7 +1,8 @@
-require "ctrip_client/version"
+require 'ctrip_client/version'
 
 module CtripClient
   class Error < StandardError; end
+
   # Your code goes here...
   class API
     def initialize(attribute)
