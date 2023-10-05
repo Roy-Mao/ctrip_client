@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 RSpec.describe CtripClient do
   it 'has a version number' do
     expect(CtripClient::VERSION).not_to be nil

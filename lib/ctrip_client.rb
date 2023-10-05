@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'ctrip_client/version'
 
 module CtripClient
