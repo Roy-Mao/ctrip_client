@@ -6,7 +6,16 @@ You can expore with the code by running `bin/console` for an interactive prompt.
 
 ## Overview
 
+To integrate with the CTrip system, the first step is to create an account to gain access to CTrip's sandbox environment.
+
 Ctrip sandbox URL: https://ttdstp.ctrip.com/user/index.do
+
+After creating the sandbox, you should follow the setup guide below to complete the API and product settings required for CTrip's standard API integration procedure.
+
+Overall Ctrip API integration guidance (Simplifid Chinese version)
+https://pages.trip.com/tourorder/ttd/ttd_file/100007996/order_cn_instruction.pdf
+
+After completing the aforementioned steps, please proceed to implement your API integration according to the following CTrip API specifications.
 
 CTrip API documentation (English Version)
 https://open.trip.com/apiplatform/order_en.jsp
